@@ -56,7 +56,7 @@ code {
   text-transform: uppercase;
   color: #fff;
   padding: 1rem;
-  letter-spacing: 10px;
+  letter-spacing: 5px;
   margin-top: 560px;
 }
 
@@ -95,7 +95,7 @@ h3 {
 
 .reproductor2 {
   position: absolute;
-  top: 100px;
+  top: 50px;
   left: 80%;
   cursor: pointer;
 }
