@@ -8,7 +8,7 @@ function TextBox3() {
         <h3 class="fiesta">CONFIRMACIÓN DE ASISTENCIA</h3>
         <h2>Cuento con tu presencia. </h2>
         <h2>¡Confirmá tu asistencia!</h2>
-        <button>CONFIRMAR ASISTENCIA</button>
+        <a href="https://wa.link/njhw20" target="_blank"><button>CONFIRMAR ASISTENCIA</button></a>
       </div>
     </>
   );
