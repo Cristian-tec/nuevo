@@ -15,7 +15,7 @@ function TextBox2() {
           ¡Te espero el Sábado 14 de diciembre de 21:00 a 05:00 hs para festejar
           este gran momento de mi vida!{" "}
         </h2>
-        <h2>Salón La Cascada, Las Chacras, Juana Koslay.</h2>
+        <h2>Salón La Cascada. Las Chacras, Juana Koslay.</h2>
         <h2>
           Clickeá en el botón de abajo y encontrá las indicaciones para llegar,
           ¡nos vemos!😉
