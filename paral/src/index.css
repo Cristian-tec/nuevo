@@ -276,7 +276,7 @@ h3 {
   position: relative;
 }
 
-.contentInsta{
+.contentInsta {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -295,8 +295,7 @@ h3 {
   margin-top: 0px;
 }
 
-
-.contentInsta h2{
+.contentInsta h2 {
   margin-top: 15px;
   width: 80%;
   font-family: "Montserrat";
@@ -343,7 +342,6 @@ h3 {
   margin-top: 1px;
   padding-top: 1rem;
   padding-bottom: 2rem;
-
 }
 
 .regalos h2 {
@@ -372,9 +370,57 @@ h3 {
   margin-top: 15px;
   width: 80%;
   font-family: "Montserrat";
-  font-weight: 300;
+  font-weight: 400;
   font-size: 17px;
   font-style: normal;
   color: #f3f5f7;
   text-align: center;
+}
+
+/* -------------------------------- */
+
+
+.downAnimate {
+  position: absolute;
+  color: #fff;
+  padding: 1rem;
+  margin-top: 650px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Montserrat";
+
+  font-weight: 200;
+  font-size: 50px;
+  font-style: normal;
+}
+.downAnimate {
+  animation: fade_move_down 2s ease-in-out infinite;
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-direction: normal;
+  animation-fill-mode: none;
+  animation-play-state: running;
+  animation-name: fade_move_down;
+  animation-timeline: auto;
+  animation-range-start: normal;
+  animation-range-end: normal;
+}
+
+@keyframes fade_move_down {
+  0% {
+    transform: translate(0, -10px) rotate(90deg);
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate(0, 10px) rotate(90deg);
+    opacity: 0;
+  }
 }

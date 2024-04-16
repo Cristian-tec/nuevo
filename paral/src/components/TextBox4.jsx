@@ -8,7 +8,7 @@ function TextBox4() {
       <div class="text-box4">
       <img class="imgAnim" src={image} alt="fiesta" />
         <h3 class="classh3">DRES CODE</h3>
-        <h2>Elegante sport</h2>
+        <h2>Elegante Sport</h2>
       </div>
     </>
   );
