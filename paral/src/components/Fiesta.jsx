@@ -10,7 +10,7 @@ function Fiesta() {
         <h2>
         ¡Ayudame sugiriendo las canciones que pensás que no pueden faltar en la fiesta!
         </h2>
-        <button>SUGERIR CANCIÓN</button>
+        <a href="https://wa.link/ly0fv3" target="_blank"><button>SUGERIR CANCIÓN</button></a>
       </div>
     </>
   );
