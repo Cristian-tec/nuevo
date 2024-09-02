@@ -6,17 +6,11 @@ function Regalos() {
     <>
       <div class="regalos">
         <img class="imgAnim" src={regalo} alt="regalo" />
-        <h2>
-          Si deseás regalarme algo, además de tu presencia,
-        </h2>
-       
-        <h2>
-         Podés hacerlo a mi cuenta de mercado pago:✨
-        </h2>
-        
-        <h2>
-         fatimapichimahuila.mp
-        </h2>
+        <h2>Si deseás regalarme algo, además de tu presencia,</h2>
+
+        <h2>Podés hacerlo a mi cuenta de mercado pago: fatiii.ganon✨</h2>
+
+        <h2>fatimapichimahuila.mp</h2>
       </div>
     </>
   );

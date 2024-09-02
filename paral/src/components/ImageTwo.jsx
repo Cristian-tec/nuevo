@@ -16,13 +16,15 @@ function ImageTwo() {
           <img class="imgAnim" src={iconoInstagram} alt="fiesta" />
         </div>
         <div class="contentInsta">
-          <h1>@fatiii__.g</h1>
+          <h1>@fatii.ganon</h1>
           <h2>¡Preparate para esta gran fiesta!</h2>
           <h2>
             Seguime en mi cuenta de Instagram y etiquetame en tus fotos y
             videos.
           </h2>
-          <a href="https://www.instagram.com/fatiii__.g/" target="_blank"><button>VER INSTAGRAM</button></a>
+          <a href="https://www.instagram.com/fatii.ganon/" target="_blank">
+            <button>VER INSTAGRAM</button>
+          </a>
         </div>
       </Parallax>
     </>
