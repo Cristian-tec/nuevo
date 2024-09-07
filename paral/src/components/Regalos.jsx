@@ -10,7 +10,7 @@ function Regalos() {
 
         <h2>Podés hacerlo a mi cuenta de mercado pago: fatiii.ganon✨</h2>
 
-        <h2>fatimapichimahuila.mp</h2>
+        {/* <h2>fatimapichimahuila.mp</h2> */}
       </div>
     </>
   );
